@@ -1,0 +1,5 @@
+#!/bin/bash
+# Last modified Tue 18 Feb 2020 by Robert Nicholas.
+INFILE="${1}"
+OUTFILE=$(basename "$INFILE" .md).html
+pandoc --standalone --include-in-header=google_fonts_head_code.html --css=pandoc-rn.css --output="$OUTFILE" "$INFILE"
