@@ -128,5 +128,40 @@ Items for EESI:
 
 Broad, spans traditional medicine to broad ideas of wellbeing.
 
+"Rules of Life" -- ???
+
+EMS is only college that physical science, social science, and engineering.
+
+"Stanford Design Concepts"
+
+### Adviancing Arts and Humanities
+
+Eric Schienke presenting
+
+Does not include Museum-related activities; Jane Cook working on this
+separately.
+
+	
+### Laura Weiss (VPR) comments
+
+Suggests reaching out to College of Medicine, Huck, SSRI -- disease
+connected to climate/weather, coal, minerals.
+
+Yes, think big, go bold.
+
+Comments on Arts & Humanities are mostly about how A&H can help EMS. How can
+EMS help A&H?
+
+
+### Lee: What's Next
+
+Groups mostly done, may be asked to put together brief report based on what
+was presented today.
+
+Sue: Should Institute plans have specific action items / KPIs? There seems
+to be a disconnect between these (constrained by limited funds) and a truly
+aspirational plan.
+
+Lee: Yes, use KPIs / action in Institute and Department plans.
 
 
